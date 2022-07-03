@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi there! 👋<br>I'm Fabio Matsumoto - Fullstack Web Developer<br>Welcome to my Github's profile!</h2>
 
 ###
